@@ -21,14 +21,6 @@
 
 Press `SPACE` to flap your wings, avoid obstacles, and try to achieve the highest possible score!
 
-### 🖼️ Gameplay Preview
-
-<!-- Add your gameplay screenshot or GIF here -->
-
-<p align="center">
-  <img src="screenshots/gameplay.gif" alt="Flappy Bird Gameplay" width="300">
-</p>
-
 ---
 
 ## ✨ Features
@@ -95,12 +87,6 @@ FlappyBird/
 │   ├── toppipe.png
 │   └── bottompipe.png
 │
-├── screenshots/
-│   └── gameplay.gif
-│
-├── docs/
-│   └── Flappy_Bird_Project_Report.pdf
-│
 └── README.md
 ```
 
@@ -113,7 +99,7 @@ FlappyBird/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/royavi21/FlappyBird
 ```
 
 ### 2. Navigate to the Source Directory
@@ -219,7 +205,6 @@ The report covers:
 6. Deployment
 7. Maintenance
 
-📄 **Project Report:** [`Flappy_Bird_Project_Report.pdf`](docs/Flappy_Bird_Project_Report.pdf)
 
 ---
 
